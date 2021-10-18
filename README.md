@@ -1,2 +1,2 @@
 # testeclipse
-Repositorio para pruebas iniciales en eclipse
+Repositorio para pruebas iniciales en eclipse.
